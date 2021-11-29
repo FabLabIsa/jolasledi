@@ -1,19 +1,33 @@
+
+
+
 # jolasledi
 
 Jólasleði
 
 
 
-Járn
+- Járn
+- flatjárn og vinkiljárn
+- Krosviður
+- Grindarefni
+- Gönguskíði
+- Skraut
+- Ljós skilti og fleira
 
-flatjárn og vinkiljárn
 
-Krosviður
+Verklisti
 
-Grindarefni
+Kjarna verkefni
+Járna grind
+Kassi
 
-Gönguskíði
+Úlits verkefni
+Bólstun á sætum
+Led borðar
 
-Skraut
 
-Ljós skilti og fleira
+Auka
+merki og skraut
+
+
